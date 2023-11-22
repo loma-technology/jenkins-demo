@@ -1,1 +1,1 @@
-ech "test";
+echo "test";
